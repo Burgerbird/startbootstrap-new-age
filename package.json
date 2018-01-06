@@ -1,29 +1,19 @@
 {
-  "title": "New Age",
-  "name": "startbootstrap-new-age",
-  "version": "4.0.0-beta.2",
-  "description": "A one page app landing page HTML theme for Bootstrap.",
+  "title": "Burgerbird!",
+  "name": "burgerbird.com",
+  "version": "0.1",
+  "description": "The Burgerbird Website.",
   "keywords": [
     "css",
     "sass",
     "html",
     "responsive",
-    "theme",
-    "template"
+    "burgerbird"
   ],
-  "homepage": "https://startbootstrap.com/template-overviews/new-age",
-  "bugs": {
-    "url": "https://github.com/BlackrockDigital/startbootstrap-new-age/issues",
-    "email": "feedback@startbootstrap.com"
-  },
-  "license": "MIT",
-  "author": "Start Bootstrap",
-  "contributors": [
-    "David Miller (http://davidmiller.io/)"
-  ],
+  "homepage": "https://burgerbird.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/BlackrockDigital/startbootstrap-new-age.git"
+    "url": "https://github.com/Burgerbird/burgerbird.com.git"
   },
   "dependencies": {
     "bootstrap": "^4.0.0-beta.2",
