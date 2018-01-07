@@ -2,6 +2,12 @@
 
 The Burgerbird Website is based on the [New Age](http://startbootstrap.com/template-overviews/new-age/) web app landing page theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
+## Google App Engine (GAE)
+
+The Burgerbird Website is hosted on GAE.
+
+- `gcloud app deploy`
+
 ## Download and Installation
 
 To begin using this template, choose one of the following options to get started:
