@@ -34,7 +34,7 @@
     "font-awesome": "4.7.0",
     "jquery": "^3.2.1",
     "jquery.easing": "^1.4.1",
-    "pinkie-promise": "git+https://github.com/floatdrop/pinkie-promise.git",
+    "pinkie-promise": "^2.0.1",
     "simple-line-icons": "2.4.1"
   },
   "devDependencies": {
